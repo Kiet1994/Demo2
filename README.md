@@ -1,4 +1,4 @@
-# Demo2.c
+# Demo2
 # update v1
 # Update v2
 KietTest
